@@ -6,7 +6,7 @@
     <data>
         <variable
             name="penjualan"
-            type="com.example.penjualan.models.Penjualan" />
+            type="com.example.penjualan.viewmodels.BlankViewFragmentMain" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
